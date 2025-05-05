@@ -1,4 +1,9 @@
-### Base Template template
+### Project
+/data/*
+!/data/.gitkeep
+/models/*
+!/models/.gitkeep
+
 ### IntelliJ
 # IntelliJ project files
 .idea
